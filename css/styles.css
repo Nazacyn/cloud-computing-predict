@@ -4013,7 +4013,7 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
-  border: 0.125rem solid transparent;
+  border: 0.125rem solid #ffffff;
   border-radius: 0.5rem;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
@@ -6073,7 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #215d51 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6083,7 +6083,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #2c3e50 !important;
+  background-color: #1e5147 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -10231,7 +10231,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #1e5147;
   color: #fff;
 }
 
